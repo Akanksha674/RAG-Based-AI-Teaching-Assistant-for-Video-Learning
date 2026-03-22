@@ -1,0 +1,17 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " Hi everyone, now we are going to study our first data structure which is called arrays."
+    },
+    {
+        "start": 4.0,
+        "end": 7.0,
+        "text": " Now, what situations do we use arrays in?"
+    },
+    {
+        "start": 7.0,
+        "end": 10.0,
+        "text": " Let's say we have to store the marks of three subjects."
+    }
+]

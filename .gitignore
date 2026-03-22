@@ -1,0 +1,27 @@
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs & env
+*.log
+.env
+
+# Media folders
+audios/
+videos/
+
+# Data folders
+jsons/
+unused/
+
+# Large files
+*.joblib
+
+prompt.txt
+response.txt
