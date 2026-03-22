@@ -140,17 +140,19 @@ http://localhost:8501
 
 ---
 
-### 📸 Example Use Case
+## 🖼️ Screenshots
 
-User Query:<br>
-“What is recursion?”
+Screenshots are stored in the `screenshots/` directory.
 
-System Output:
 
-- Explains recursion
-- Refers to specific lecture segments
-- Guides user to relevant content
+![Home Page](screenshots/question.png)
+
+
+![Create Reel](screenshots/answer.png)
+
+
 ---
+
 
 ## 🎯 Key Highlights
 
