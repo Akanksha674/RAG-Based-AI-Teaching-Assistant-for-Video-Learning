@@ -145,10 +145,10 @@ http://localhost:8501
 Screenshots are stored in the `screenshots/` directory.
 
 
-![Home Page](screenshots/question.png)
+![Question Asked](screenshots/question.png)
 
 
-![Create Reel](screenshots/answer.png)
+![Response](screenshots/answer.png)
 
 
 ---
