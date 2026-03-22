@@ -142,14 +142,13 @@ http://localhost:8501
 
 ## 🖼️ Screenshots
 
-Screenshots are stored in the `screenshots/` directory.
-
-
+### 💬 Question Asked
 ![Question Asked](screenshots/question.png)
 
+---
 
+### 🤖 Response
 ![Response](screenshots/answer.png)
-
 
 ---
 
