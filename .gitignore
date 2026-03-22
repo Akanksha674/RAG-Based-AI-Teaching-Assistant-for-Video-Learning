@@ -15,6 +15,7 @@ __pycache__/
 # Media folders
 audios/
 videos/
+screenshots/
 
 # Data folders
 jsons/
